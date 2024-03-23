@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Creeper-boi
+- 👀 I’m interested in making application for computer
+- 🌱 I’m currently learning javascript, React, Node and express.js
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like cookies
